@@ -17,13 +17,14 @@ This organization is our open knowledge base. Engineering documentation,
 compliance checklists, procurement guides, and trilingual reference
 material — all CC BY 4.0 (documentation) and MIT (code).
 
-| Repository | Purpose |
-|------------|---------|
-| [`pump-engineering-handbook`](https://github.com/fb-bombas/pump-engineering-handbook) | Open handbook on industrial pumping fundamentals |
-| [`nfpa20-fire-pump-checklist`](https://github.com/fb-bombas/nfpa20-fire-pump-checklist) | 47-item NFPA-20 / NBR-16704 fire-pump compliance checklist |
-| [`pump-procurement-playbook`](https://github.com/fb-bombas/pump-procurement-playbook) | RFQ, TCO framework, contract clauses, FAT and site acceptance |
-| [`pump-glossary-multilang`](https://github.com/fb-bombas/pump-glossary-multilang) | Trilingual pump glossary — PT / EN / ES with gotchas |
-| [`latam-pump-buyers-guide`](https://github.com/fb-bombas/latam-pump-buyers-guide) | Country-by-country procurement guide for Brazil, Mexico, Argentina, Chile, Colombia, Peru |
+| Repository | Pages site (browser-friendly) |
+|------------|------------------------------|
+| [`fb-bombas-technical-manuals`](https://github.com/fb-bombas/fb-bombas-technical-manuals) | [📥 Manuals + curves PDFs](https://fb-bombas.github.io/fb-bombas-technical-manuals/) — FBCN, FBE, FBEI, FBOT |
+| [`pump-engineering-handbook`](https://github.com/fb-bombas/pump-engineering-handbook) | [📚 Engineering handbook](https://fb-bombas.github.io/pump-engineering-handbook/) — fundamentals + selection |
+| [`nfpa20-fire-pump-checklist`](https://github.com/fb-bombas/nfpa20-fire-pump-checklist) | [🔥 Fire-pump compliance](https://fb-bombas.github.io/nfpa20-fire-pump-checklist/) — NFPA-20 / NBR-16704 |
+| [`pump-procurement-playbook`](https://github.com/fb-bombas/pump-procurement-playbook) | [📋 Procurement playbook](https://fb-bombas.github.io/pump-procurement-playbook/) — RFQ, TCO, contracts |
+| [`pump-glossary-multilang`](https://github.com/fb-bombas/pump-glossary-multilang) | [🌐 Trilingual glossary](https://fb-bombas.github.io/pump-glossary-multilang/) — PT / EN / ES |
+| [`latam-pump-buyers-guide`](https://github.com/fb-bombas/latam-pump-buyers-guide) | [🌎 LATAM buyers guide](https://fb-bombas.github.io/latam-pump-buyers-guide/) — BR, MX, AR, CL, CO, PE |
 
 ---
 
