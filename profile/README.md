@@ -5,25 +5,25 @@
 Cabreúva, São Paulo, Brazil · CNPJ 61.381.240/0001-78
 
 We design, machine, assemble, and test industrial pumps for petrochemical,
-sanitation, food, energy, and fire-fighting applications across Brazil and Latin
-America. Centrifugal, external & internal gear, thermal-oil, and NFPA-20 fire
-pump lines.
+sanitation, food, energy, and fire-fighting applications across Brazil and
+Latin America. Centrifugal, external & internal gear, thermal-oil, and
+NFPA-20 fire pump lines.
 
 ---
 
-## What we publish here
+## Open knowledge base
 
 This organization is our open knowledge base. Engineering documentation,
-selection guides, compliance checklists, and small open-source utilities — all
-released under MIT (code) and CC BY 4.0 (documentation).
+compliance checklists, procurement guides, and trilingual reference
+material — all CC BY 4.0 (documentation) and MIT (code).
 
 | Repository | Purpose |
 |------------|---------|
 | [`pump-engineering-handbook`](https://github.com/fb-bombas/pump-engineering-handbook) | Open handbook on industrial pumping fundamentals |
-
-More repositories coming: NFPA-20 / NBR-16704 fire-pump compliance checklist,
-trilingual pump glossary, Python utilities for pump curve analysis, and a LATAM
-buyer's guide.
+| [`nfpa20-fire-pump-checklist`](https://github.com/fb-bombas/nfpa20-fire-pump-checklist) | 47-item NFPA-20 / NBR-16704 fire-pump compliance checklist |
+| [`pump-procurement-playbook`](https://github.com/fb-bombas/pump-procurement-playbook) | RFQ, TCO framework, contract clauses, FAT and site acceptance |
+| [`pump-glossary-multilang`](https://github.com/fb-bombas/pump-glossary-multilang) | Trilingual pump glossary — PT / EN / ES with gotchas |
+| [`latam-pump-buyers-guide`](https://github.com/fb-bombas/latam-pump-buyers-guide) | Country-by-country procurement guide for Brazil, Mexico, Argentina, Chile, Colombia, Peru |
 
 ---
 
@@ -35,7 +35,10 @@ buyer's guide.
   - [External gear — FBE series](https://www.fbbombas.com.br/produtos/serie-fbe)
   - [Internal gear — FBEI series](https://www.fbbombas.com.br/produtos/serie-fbei)
   - [Thermal oil — FBOT series](https://www.fbbombas.com.br/produtos/serie-fbot)
+  - [Fire fighting — FBFS series](https://www.fbbombas.com.br/produtos/serie-fbfs)
 - **Technical manuals:** [Manuais técnicos](https://www.fbbombas.com.br/manuais-tecnicos)
+- **LATAM coverage:** [Bombas industriales LATAM](https://www.fbbombas.com.br/es/bombas-industriales-latam)
+- **Why FB Bombas:** [Por que FB Bombas](https://www.fbbombas.com.br/por-que-fb-bombas)
 - **Contact:** comercial@fbbombas.com.br · +55 11 4898-9200
 
 ---
