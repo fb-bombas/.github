@@ -35,7 +35,7 @@ material — all CC BY 4.0 (documentation) and MIT (code).
   - [External gear — FBE series](https://www.fbbombas.com.br/produtos/serie-fbe)
   - [Internal gear — FBEI series](https://www.fbbombas.com.br/produtos/serie-fbei)
   - [Thermal oil — FBOT series](https://www.fbbombas.com.br/produtos/serie-fbot)
-  - [Fire fighting — FBFS series](https://www.fbbombas.com.br/produtos/serie-fbfs)
+  - [Fire fighting — fire-pump systems](https://www.fbbombas.com.br/produtos/sistemas-incendio)
 - **Technical manuals:** [Manuais técnicos](https://www.fbbombas.com.br/manuais-tecnicos)
 - **LATAM coverage:** [Bombas industriales LATAM](https://www.fbbombas.com.br/es/bombas-industriales-latam)
 - **Why FB Bombas:** [Por que FB Bombas](https://www.fbbombas.com.br/por-que-fb-bombas)
